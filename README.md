@@ -1,4 +1,4 @@
-<h1 align="center"> /baidu-translate </h1>
+<h1 align="center"> baidu-translator </h1>
 
 <p align="center"> 百度翻译 SDK.</p>
 
@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require hercat//baidu-translate -vvv
+$ composer require hercat/baidu-translator -vvv
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "her-cat\/baidu-translate",
+    "name": "her-cat/baidu-translator",
     "description": "百度翻译 SDK",
     "license": "MIT",
     "authors": [
@@ -8,10 +8,12 @@
             "email": "hxhsoft@foxmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
     "autoload": {
         "psr-4": {
-            "HerCat\\BaiduTranslate\\": "src"
+            "HerCat\\BaiduTranslator\\": "src"
         }
     }
 }
