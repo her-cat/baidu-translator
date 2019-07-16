@@ -5,11 +5,13 @@
     "authors": [
         {
             "name": "her-cat",
-            "email": "hxhsoft@foxmail.com"
+            "email": "i@her-cat.com"
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3",
+        "mockery/mockery": "^1.2",
+        "phpunit/phpunit": "~5"
     },
     "autoload": {
         "psr-4": {
