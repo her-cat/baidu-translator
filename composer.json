@@ -17,5 +17,12 @@
         "psr-4": {
             "HerCat\\BaiduTranslator\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HerCat\\BaiduTranslator\\ServiceProvider"
+            ]
+        }
     }
 }
