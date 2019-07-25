@@ -28,7 +28,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
      */
     public function register()
     {
-        $this->app->singleton(function ($app) {
+        $this->app->singleton(BaiduTranslator::class, function () {
             return new BaiduTranslator(
                 config('translator.app_id'),
                 config('translator.key')
