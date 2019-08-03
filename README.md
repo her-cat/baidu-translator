@@ -2,6 +2,11 @@
 
 <p align="center"> 百度翻译 SDK.</p>
 
+[![Build Status](https://travis-ci.org/her-cat/baidu-translator.svg?branch=master)](https://travis-ci.org/her-cat/baidu-translator) 
+[![StyleCI build status](https://github.styleci.io/repos/196751395/shield)](https://github.styleci.io/repos/196751395)
+[![Latest Stable Version](https://poser.pugx.org/her-cat/baidu-translator/v/stable)](https://packagist.org/packages/her-cat/baidu-translator) 
+[![Latest Unstable Version](https://poser.pugx.org/her-cat/baidu-translator/v/unstable)](https://packagist.org/packages/her-cat/baidu-translator) 
+[![License](https://poser.pugx.org/her-cat/baidu-translator/license)](https://packagist.org/packages/her-cat/baidu-translator)
 
 ## 安装
 
