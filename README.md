@@ -16,7 +16,7 @@ $ composer require her-cat/baidu-translator -vvv
 
 ## 配置
 
-使用本扩展前，你需要去 [百度翻译开放平台](ht://api.fanyi.baidu.com/api/trans/product/index) 注册账号，然后获取应用的 `APP ID` 和 `密钥`。
+使用本扩展前，你需要去 [百度翻译开放平台](https://api.fanyi.baidu.com/api/trans/product/index) 注册账号，然后获取应用的 `APP ID` 和 `密钥`。
 
 ## 使用
 
